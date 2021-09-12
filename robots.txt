@@ -1,1 +1,1 @@
-Sitemap: https://jssheehan.github.io/ws/sitemap.xml
+Sitemap: https://jssheehan.github.io/portfolio/sitemap.xml
