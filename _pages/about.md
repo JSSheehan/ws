@@ -8,4 +8,4 @@ Scott Sheehan is a data scientist with a passion for baseball **[JSSheehan](http
 
 
 
-[^1]: baseball analytics blog
+[^1]: baseball analytics and data science blog
