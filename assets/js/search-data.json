@@ -29,7 +29,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "Scott Sheehan is a data scientist with a passion for baseball JSSheehan 1. . baseball analytics and data science blog &#8617; . |",
+          "content": "Scott Sheehan is a data scientist with a passion for baseball JSSheehan [^1]. . [^1]: baseball analytics and data science blog .",
           "url": "https://jssheehan.github.io/ws/about/",
           "relUrl": "/about/",
           "date": ""
