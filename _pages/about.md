@@ -13,5 +13,5 @@ If you like what you see, have questions on any analysis, or just want to talk b
 **[JSSheehan](https://github.com/JSSheehan)** [^1].
 
 
-![]({{site.baseurl}}/images/Personal photo2.jpg)
+![]({{site.baseurl}}/images/Personal photo 2.jpg)
 [^1]: baseball analytics and data science blog
