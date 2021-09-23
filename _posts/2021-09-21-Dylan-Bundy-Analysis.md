@@ -23,7 +23,8 @@ In 2020 Dylan Bundy had a career year pitching to a 3.06 xERA with a 27% Strikeo
 <img src="/images/2021-09-21-Dylan-Bundy-Analysis/image1.png" style="width:5.37778in;height:1.6859in" />
 ![](/images/2021-09-21-Dylan-Bundy-Analysis/image1.png)
 ![](/images/media/image1.png)
-
+![]({{site.baseurl}}/images/image1.png)
+![]({{site.baseurl}}/images/media/image1.png)
 
 *Note: The red highlighting notes the worst year for each respective category while green represents the best*
 
