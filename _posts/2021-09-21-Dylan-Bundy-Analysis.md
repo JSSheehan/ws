@@ -16,6 +16,9 @@ One change Bundy makes each year is his pitch mix. Bundy added a slider in 2017 
 **Graphic 1: Bundy Pitch % by Season**
 
 <img src="2021-09-21-Dylan-Bundy-Analysis//media/image2.png" style="width:5.68692in;height:2.83131in" />
+<img src="images/2021-09-21-Dylan-Bundy-Analysis/image2.png" style="width:5.68692in;height:2.83131in" />
+<img src="/images/image2.png" style="width:5.68692in;height:2.83131in" />
+![](/images/2021-09-21-Dylan-Bundy-Analysis/images1.png)
 
 As you can see from Graphic 1, Bundy has relied less on his four-seamer ever since 2018 when he threw it nearly half the time. Table 2 below highlights these percentages for 2019 and 2020 showing his four-seam usage dropped down to only 33.6% in 2020.
 
