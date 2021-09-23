@@ -5,7 +5,7 @@ toc: true
 comments: true
 layout: post
 categories: [media, markdown]
-image: images/Bundy.png
+image: images/Bundy.jpg
 author: Jerry Scott Sheehan
 ---
 
