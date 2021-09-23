@@ -1,3 +1,12 @@
+title: "Explaining Dylan Bundy’s 2020 Dominance and 2021 Struggles"
+description: Digging into Dylan Bundy's 2020 success and 2021 struggles to find a fix for him moving forward
+toc: true
+comments: true
+layout: post
+categories: [media, markdown]
+image: images/image1.png
+author: Jerry Scott Sheehan
+
 # Explaining Dylan Bundy’s 2020 Dominance and 2021 Struggles
 
 ## By Jerry Scott Sheehan
