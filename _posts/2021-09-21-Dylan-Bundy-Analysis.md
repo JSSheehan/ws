@@ -53,7 +53,7 @@ Again, it’s held true that his sinker and four-seamer have been less effective
 
 **Table 6: 2021 Statistics by Pitch Type**
 
-<img src="/images/image7.png" style="width:4.01in;height:1.01in" />
+<img src="/images/image7.png" style="width:4.0in;height:1.1in" />
 
 *Note: The red cells highlight the worst performing pitch in each category*
 
