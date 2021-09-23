@@ -21,7 +21,7 @@ As you can see from Graphic 1, Bundy has relied less on his four-seamer ever sin
 
 **Table 2: Bundy Pitch Usage 2019 vs 2020**
 
-<img src="/images/image3.png.png" style="width:5.63868in;height:1.19167in" />
+<img src="/images/image3.png" style="width:5.63868in;height:1.19167in" />
 
 *Note: The red arrow highlights a decrease in usage while the green arrows indicate increases*
 
