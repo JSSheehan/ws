@@ -6,8 +6,7 @@ In 2020 Dylan Bundy had a career year pitching to a 3.06 xERA with a 27% Strikeo
 
 **Table 1: Statistics by Season**
 
-<img src="2021-09-21-Dylan-Bundy-Analysis//media/image1.png" style="width:5.37778in;height:1.6859in" />
-![](/images/image1.png)
+<img src="/images/image1.png" style="width:5.68692in;height:2.83131in" />
 
 *Note: The red highlighting notes the worst year for each respective category while green represents the best*
 
@@ -15,16 +14,14 @@ One change Bundy makes each year is his pitch mix. Bundy added a slider in 2017 
 
 **Graphic 1: Bundy Pitch % by Season**
 
-<img src="2021-09-21-Dylan-Bundy-Analysis//media/image2.png" style="width:5.68692in;height:2.83131in" />
-<img src="images/2021-09-21-Dylan-Bundy-Analysis/image2.png" style="width:5.68692in;height:2.83131in" />
 <img src="/images/image2.png" style="width:5.68692in;height:2.83131in" />
-![](/images/2021-09-21-Dylan-Bundy-Analysis/images1.png)
+
 
 As you can see from Graphic 1, Bundy has relied less on his four-seamer ever since 2018 when he threw it nearly half the time. Table 2 below highlights these percentages for 2019 and 2020 showing his four-seam usage dropped down to only 33.6% in 2020.
 
 **Table 2: Bundy Pitch Usage 2019 vs 2020**
 
-<img src="2021-09-21-Dylan-Bundy-Analysis//media/image3.png" style="width:5.63868in;height:1.19167in" />
+<img src="/images/image3.png.png" style="width:5.63868in;height:1.19167in" />
 
 *Note: The red arrow highlights a decrease in usage while the green arrows indicate increases*
 
@@ -32,7 +29,7 @@ By cutting down his four-seam usage Bundy was able to rely more on his off-speed
 
 **Table 3: 2019 Statistics by Pitch Type**
 
-<img src="2021-09-21-Dylan-Bundy-Analysis//media/image4.png" style="width:4.64444in;height:1.41506in" />
+<img src="/images/image4.png" style="width:4.64444in;height:1.41506in" />
 
 *Note: The red cells highlight the worst performing pitch in each category*
 
@@ -40,7 +37,7 @@ The success of each pitch carried over similarly into 2020 as Bundy continued to
 
 **Table 4: 2020 Statistics by Pitch Type**
 
-<img src="2021-09-21-Dylan-Bundy-Analysis//media/image5.png" style="width:4.83974in;height:1.57757in" />
+<img src="/images/image5.png" style="width:4.83974in;height:1.57757in" />
 
 *Note: The red cells highlight the worst performing pitch in each category*
 
@@ -48,7 +45,7 @@ Coming off his 2020 success there were high standards for Bundy this season, but
 
 **Table 5: Bundy Pitch Usage 2020 vs 2021**
 
-<img src="2021-09-21-Dylan-Bundy-Analysis//media/image6.png" style="width:5.48684in;height:1.15189in" />
+<img src="/images/image6.png" style="width:5.48684in;height:1.15189in" />
 
 *Note: The red arrows highlight a decrease in usage while the green indicate an increase*
 
@@ -56,7 +53,7 @@ Again, it’s held true that his sinker and four-seamer have been less effective
 
 **Table 6: 2021 Statistics by Pitch Type**
 
-<img src="2021-09-21-Dylan-Bundy-Analysis//media/image7.png" style="width:4.45658in;height:1.20175in" />
+<img src="/images/image7.png" style="width:4.45658in;height:1.20175in" />
 
 *Note: The red cells highlight the worst performing pitch in each category*
 
@@ -68,13 +65,13 @@ So far in 2021 Bundy is continuing to use his four-seamer at a similar overall r
 
 **2019 (left) 2020 (middle) 2021 (right)**
 
-<img src="2021-09-21-Dylan-Bundy-Analysis//media/image8.png" style="width:6.5in;height:2.81667in" />
+<img src="/images/image8.png" style="width:6.5in;height:2.81667in" />
 
 **Graphic 3: Opponents Slugging Percentage by Count**
 
 **2019 (left), 2020 (middle), 2021 (right)**
 
-<img src="2021-09-21-Dylan-Bundy-Analysis//media/image9.png" style="width:6.42157in;height:3.52706in" />
+<img src="/images/image9.png" style="width:6.42157in;height:3.52706in" />
 
 *Note: the numbers at the top of each circle display the count. The number at the bottom is the opponents slugging percentage during that count. The darker the blue is, the lower the slugging percentage. The darker the red is, the higher the slugging percentage.*
 
@@ -82,7 +79,7 @@ Looking at Graphic 2 and 3 above, Bundy is more successful not only when he is u
 
 **Graphic 4: Bundy Pitch Speed and Break**
 
-<img src="2021-09-21-Dylan-Bundy-Analysis//media/image10.png" style="width:5.94717in;height:3.3402in" />
+<img src="/images/image10.png" style="width:5.94717in;height:3.3402in" />
 
 Overall, it seems there are two changes Bundy can make to improve moving forward and regain his 2020 form:
 
