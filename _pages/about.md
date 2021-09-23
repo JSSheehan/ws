@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Jerry Scott Sheehan
+title: About Me
 permalink: /about/
 ---
 
