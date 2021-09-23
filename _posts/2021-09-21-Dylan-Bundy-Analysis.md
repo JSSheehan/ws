@@ -13,6 +13,7 @@ In 2020 Dylan Bundy had a career year pitching to a 3.06 xERA with a 27% Strikeo
 ![](/images/2021-09-21-Dylan-Bundy-Analysis/image1.png)
 ![](/images/media/image1.png)
 
+
 *Note: The red highlighting notes the worst year for each respective category while green represents the best*
 
 One change Bundy makes each year is his pitch mix. Bundy added a slider in 2017 and since has used a five-pitch mix. His usage of each of these pitches are outlined in Graphic 1 below.
@@ -27,6 +28,7 @@ As you can see from Graphic 1, Bundy has relied less on his four-seamer ever sin
 **Table 2: Bundy Pitch Usage 2019 vs 2020**
 
 <img src="/images/image3.png" style="width:5.63868in;height:1.19167in" />
+![](/images/media/image3.png)
 
 *Note: The red arrow highlights a decrease in usage while the green arrows indicate increases*
 
