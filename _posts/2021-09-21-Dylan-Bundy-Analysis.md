@@ -4,7 +4,7 @@ description: Digging into Dylan Bundy's 2020 success and 2021 struggles to find 
 toc: false
 comments:true
 layout: post
-categories: [pitching, sabermetrics, MLB, Bundy, Angels, ]
+categories: [pitching, sabermetrics, MLB, Bundy, Angels]
 image: images/Bundy.jpg
 ---
 
