@@ -1,6 +1,6 @@
 ---
 title: "Explaining Dylan Bundy’s 2020 Dominance and 2021 Struggles"
-description: 
+description: This article dives into Dylan Bundy's success in 2020 and tries to explain his troubles in 2021
 toc: false
 comments: true
 layout: post
