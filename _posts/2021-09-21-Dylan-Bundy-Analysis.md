@@ -1,11 +1,12 @@
 ---
-title: "Explaining Dylan Bundy’s 2020 Dominance and 2021 Struggles"
-description: Digging into Dylan Bundy's 2020 success and 2021 struggles to find a fix for him moving forward
-toc: false
-comments:true
+title: "GitHub Actions: Providing Data Scientists With New Superpowers"
+description: A Tutorial on GitHub <a href="https://github.com/features/actions">Actions</a> For Data Scientists
+toc: true
+comments: true
 layout: post
-categories: [pitching, sabermetrics, MLB, Bundy, Angels]
-image: images/Bundy.jpg
+categories: [actions, markdown]
+image: images/fastpages_posts/actions/actions_logo.png
+author: Hamel Husain & Jeremy Howard
 ---
 
 # Explaining Dylan Bundy’s 2020 Dominance and 2021 Struggles
