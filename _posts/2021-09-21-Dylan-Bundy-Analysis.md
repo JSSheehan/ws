@@ -6,7 +6,6 @@ comments: true
 layout: post
 categories: [actions, markdown]
 image: images/Bundy.jpg
-author: Jerry Scott Sheehan
 ---
 
 ![]({{site.baseurl}}/images/media/Bundy3.jpg)
