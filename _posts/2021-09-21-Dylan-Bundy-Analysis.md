@@ -4,7 +4,7 @@ description:
 toc: false
 comments: true
 layout: post
-categories: [actions, markdown, baseball]
+categories: [actions, markdown, baseball, pitching, sabermetrics]
 image: images/Bundy.jpg
 ---
 
