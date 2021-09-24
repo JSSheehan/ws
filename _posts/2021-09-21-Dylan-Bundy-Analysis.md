@@ -1,14 +1,14 @@
 ---
 title: "Explaining Dylan Bundy’s 2020 Dominance and 2021 Struggles"
 description: This article dives into Dylan Bundy's success in 2020 and tries to explain his troubles in 2021
-toc: false
+toc: true
 comments: true
 layout: post
-categories: [actions, markdown, baseball, pitching, sabermetrics]
+categories: [actions, markdown]
 image: images/Bundy.jpg
 ---
 
-
+# TITLE
 In 2020 Dylan Bundy had a career year pitching to a 3.06 xERA with a 27% Strikeout rate and 6.4% walk rate - all career bests. Almost every statistic pointed to 2020 being his best season as shown in Table 1 below. It appeared that the once highly touted fourth overall draft pick had finally tapped back into the potential he showed before Tommy John surgery in 2013 delayed his stardom. But in 2021, these same statistics are now almost all career worst. In the analysis below I look into what changed between 2019, 2020, and 2021, and how Bundy can get back on track.
 
 **Table 1: Statistics by Season**
