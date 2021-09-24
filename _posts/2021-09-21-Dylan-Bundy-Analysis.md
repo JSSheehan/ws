@@ -1,7 +1,7 @@
 ---
 title: "Explaining Dylan Bundy’s 2020 Dominance and 2021 Struggles"
 description: 
-toc: true
+toc: false
 comments: true
 layout: post
 categories: [actions, markdown]
