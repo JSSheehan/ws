@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Resume
 permalink: /resume/
 ---
-# Jerry Scott Sheehan
+# <span style="color:Red">Jerry Scott Sheehan Resume </span> 
 
 #### jssheehan94@gmail.com | 14126 Marquesas Way, Apt 3208, Marina Del Rey 90292 | (703) 220-7649
 
@@ -60,17 +59,17 @@ Data Scientist | Oct 2017 – Jun 2020
 •	As the lone member of the analytics team, was responsible for compiling and tracking player statistics and making in game scoring decisions on plays such as errors and wild pitches.
 
 ### KEY SKILLS AND PROGRAMMING LANGUAGES
-•	Microsoft Office – Access, Excel (VBA, Power Queries)
-•	Data Visualization, Analysis, and Management
-•	Written and Oral Communication (including communication of data and analytical results)
-•	Python – Pandas, NumPy, SciPy, Plotly, Scikit Learn
-•	SQL 	          
-•	Machine Learning – Regression, Classification, Clustering, Neural Networks
-•	Git, GitHub
-•	R, RStudio
-•	SAS
+- Microsoft Office – Access, Excel (VBA, Power Queries)
+- Data Visualization, Analysis, and Management
+- Written and Oral Communication (including communication of data and analytical results)
+- Python – Pandas, NumPy, SciPy, Plotly, Scikit Learn
+- SQL 	          
+- Machine Learning – Regression, Classification, Clustering, Neural Networks
+- Git, GitHub
+- R, RStudio
+- SAS
 
 ### NON-PROGRAMMING LANGUAGES
-•	French: fluent in both oral and written communication 
-•	Spanish: 4 years of lessons
+- French: fluent in both oral and written communication\
+- Spanish: 4 years of lessons
 
