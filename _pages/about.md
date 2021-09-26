@@ -9,7 +9,7 @@ I am a data scientist with five years of professional experience in data science
 While not at work I spend most of my time pooring through baseball statistics and watching baseball games. On this site I include side projects where I seek to use and improve my data science skills and apply them to baseball.
 
 If you like what you see, have questions on any analysis, or just want to talk baseball please email me at jssheehan94@gmail.com.\
-If you would like to view my gitHub page please visit: **[JSSheehan](https://github.com/JSSheehan)**\
+If you would like to view my gitHub page please visit: **[JSSheehan](https://github.com/JSSheehan)**
 
 
 ![]({{site.baseurl}}/images/Personal photo 2.jpg)
