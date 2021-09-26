@@ -5,7 +5,7 @@ permalink: /resume/
 ---
 # <p style="text-align: center;">Jerry Scott Sheehan</p>
 
-### jssheehan94@gmail.com | 14126 Marquesas Way, Apt 3208, Marina Del Rey 90292 | (703) 220-7649
+#### jssheehan94@gmail.com | 14126 Marquesas Way, Apt 3208, Marina Del Rey 90292 | (703) 220-7649
 
 ### EXPERIENCE SUMMARY
 I am a Data Scientist at Booz Allen Hamilton who brings five years of combined industry and government experience performing professional data and business analytics support services to a variety of Air Force and Army projects. More recently, I have managed analytical teams to drive business through data and strategy.
