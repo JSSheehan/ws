@@ -10,6 +10,6 @@ While not at work I spend most of my time pooring through baseball statistics an
 
 If you like what you see, have questions on any analysis, or just want to talk baseball please email me at jssheehan94@gmail.com.\
 If you would like to view my gitHub page please visit: **[JSSheehan](https://github.com/JSSheehan)**\
-For more information on me and my experience please see my **[Resume](https://jssheehan.github.io/ws/resume/)**
+
 
 ![]({{site.baseurl}}/images/Personal photo 2.jpg)
