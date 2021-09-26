@@ -8,8 +8,8 @@ I am a data scientist with five years of professional experience in data science
 
 While not at work I spend most of my time pooring through baseball statistics and watching baseball games. On this site I include side projects where I seek to use and improve my data science skills and apply them to baseball.
 
-<p>If you like what you see, have questions on any analysis, or just want to talk baseball please email me at jssheehan94@gmail.com.<br>
-If you would like to view my gitHub page please visit: **[JSSheehan](https://github.com/JSSheehan)**<br>
-For more information on me and my experience please see my **[Resume](https://jssheehan.github.io/ws/resume/)**</p>
+If you like what you see, have questions on any analysis, or just want to talk baseball please email me at jssheehan94@gmail.com.\
+If you would like to view my gitHub page please visit: **[JSSheehan](https://github.com/JSSheehan)**\
+For more information on me and my experience please see my **[Resume](https://jssheehan.github.io/ws/resume/)**
 
 ![]({{site.baseurl}}/images/Personal photo 2.jpg)
