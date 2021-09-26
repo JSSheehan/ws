@@ -3,7 +3,7 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-# <p style="text-align: center;">Jerry Scott Sheehan</p>
+# Jerry Scott Sheehan
 
 #### jssheehan94@gmail.com | 14126 Marquesas Way, Apt 3208, Marina Del Rey 90292 | (703) 220-7649
 
