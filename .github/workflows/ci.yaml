@@ -6,7 +6,12 @@ on:
   # no filters on pull requests, so intentionally left blank
   pull_request:
   workflow_dispatch:
-
+  
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+  
 jobs:     
   build-site:
     if: ( github.event.commits[0].message != 'Initial commit' ) || github.run_number > 1
